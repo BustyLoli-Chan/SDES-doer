@@ -1,0 +1,6 @@
+c:\users\bustyloli-chan\documents\visual studio 2015\Projects\DES doer\DES doer\bin\Debug\DES doer.exe.config
+c:\users\bustyloli-chan\documents\visual studio 2015\Projects\DES doer\DES doer\obj\Debug\DES doer.csprojResolveAssemblyReference.cache
+c:\users\bustyloli-chan\documents\visual studio 2015\Projects\DES doer\DES doer\bin\Debug\DES doer.exe
+c:\users\bustyloli-chan\documents\visual studio 2015\Projects\DES doer\DES doer\bin\Debug\DES doer.pdb
+c:\users\bustyloli-chan\documents\visual studio 2015\Projects\DES doer\DES doer\obj\Debug\DES doer.exe
+c:\users\bustyloli-chan\documents\visual studio 2015\Projects\DES doer\DES doer\obj\Debug\DES doer.pdb
